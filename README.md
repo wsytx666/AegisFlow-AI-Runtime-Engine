@@ -1,16 +1,16 @@
-#AegisFlow AI运行时引擎
+# AegisFlow AI Runtime Engine
 
-用于生成、重构和部署软件项目的多代理自主编码框架。
+A multi-agent autonomous coding framework for generating, refactoring and deploying software projects.
 
-##功能
--多代理任务路由
--上下文记忆检索
--令牌优化
--实时补丁规划
--减轻重量的仪式板
+## Features
+- Multi-agent task routing
+- Context memory retrieval
+- Token optimization
+- Real-time patch planning
+- Lightweight dashboard
 
-##跑
-```猛击
-PIP安装-r要求.文本
-Python app.py
+## Run
+```bash
+pip install -r requirements.txt
+python app.py
 ```
